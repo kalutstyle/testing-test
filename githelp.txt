@@ -1,0 +1,10 @@
+git init
+=> initialise git et permet de voir l'history
+
+git statut
+=> permet de voir les changements 
+
+git add . 
+=> le point c'est tt les fichiers
+=> permet d'ajouter toutes les untracked file
+=> dans la staging area 
