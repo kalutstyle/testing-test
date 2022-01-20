@@ -46,3 +46,13 @@ git remote -v
 git push origin master 
 => push le projet
 
+branches 
+=> a chaque commit sa créer des branches ( des ronds connect ) 
+=> faut commit sur d'autre branche que main 
+
+git branch [nom]
+=> creer nouvelle branch
+
+git checkout feature 
+=> sa switch dessus
+
