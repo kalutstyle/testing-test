@@ -53,6 +53,6 @@ branches
 git branch [nom]
 => creer nouvelle branch
 
-git checkout feature 
+git checkout feature / master  
 => sa switch dessus
 
