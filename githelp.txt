@@ -3,8 +3,46 @@ git init
 
 git statut
 => permet de voir les changements 
+=> permet d'ailleurs de voire les changement quand on a modif
 
 git add . 
 => le point c'est tt les fichiers
 => permet d'ajouter toutes les untracked file
 => dans la staging area 
+
+git commit -m
+=> permet de commit
+=> -m permet d'ajouter un message " "
+
+cat
+=> permet d'ouvrir le fichier et de le lire
+
+vim 
+=> permet d'ouvrir le fichier et le modif  
+=> i pour écrire
+=> ctrl + c +> :x pour save 
+
+git restore --stage [truc]
+=> permet d'enlever le commit d'un truc qu'on a pas forcément envie
+ou par erreur 
+
+git log 
+=> donne l'history 
+
+git stash 
+=> vite fait compris
+
+git stash pop 
+=> fait revenir ceux partis 
+
+git remote add origin url
+=> remote => on utilise un url
+=> add on ajoute lurl
+=> origine quelle url ?
+
+git remote -v 
+=> listes des urls attachées
+
+git push origin master 
+=> push le projet
+

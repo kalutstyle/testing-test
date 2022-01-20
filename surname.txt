@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+et oui alors 
+=======
+et oui donc 
+>>>>>>> Stashed changes
